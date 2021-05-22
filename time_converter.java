@@ -7,7 +7,7 @@ Complete the code to convert it to seconds and output the result.
 
 Remember:
 12 days are 12*24 = 288 hours, which are 228*60 = 17280, which are 17280*60 = 1036800 seconds.
-*?
+*/
 
 import java.vtil.Scanner;
 public class Program {
